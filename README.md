@@ -8,7 +8,7 @@ Person A should modify content here.
 
 ## Person B:
 
-Person B should modify content here.
+Person B is the coolest person in the group.
 
 ## Person C:
 
